@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "452888472048",
+    "firebase_url": "https://loudam-208618.firebaseio.com",
+    "project_id": "loudam-208618",
+    "storage_bucket": "loudam-208618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452888472048:android:c06fda0e28ee2b35",
+        "android_client_info": {
+          "package_name": "com.lseg.loudam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452888472048-vh22iinf0tfe7mkigdfj1csceeoh6gm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lseg.loudam",
+            "certificate_hash": "b80679b36ce3b335ccab6aa022b8838ed6eed21a"
+          }
+        },
+        {
+          "client_id": "452888472048-59gg9ns8eb6f9jbqbcbhllipc5mscq2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVs_PHbm4xWO2e976CvuyMrE8Ii3h8wXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452888472048-59gg9ns8eb6f9jbqbcbhllipc5mscq2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
